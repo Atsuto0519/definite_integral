@@ -1,0 +1,2 @@
+# definite_integral
+Pythonを用いて定積分の計算する関数を実装した
